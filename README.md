@@ -4,11 +4,11 @@
 
 ### Introduction
 
-park-page-generator is a simple template for [domain park pages](https://en.wikipedia.org/wiki/Domain_parking) based on the [Jekyll static site generator](http://jekyllrb.org).
+park-page-generator is a simple template for static [domain park pages](https://en.wikipedia.org/wiki/Domain_parking) based on the [Jekyll static site generator](http://jekyllrb.org).
 
 ### Demo
 
-A demo is available via gh pages here: http://thathanka.org/park-page-generator/
+A demo is available via gh pages here: https://tlrasor.github.io/park-page-generator/
 
 ### Screenshots
 

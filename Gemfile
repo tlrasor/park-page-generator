@@ -18,8 +18,5 @@ end
 group :test,:development do
   gem 'rake'
   gem 'logging'
-end
-
-group :test do
   gem "html-proofer"
 end
