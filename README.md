@@ -44,6 +44,11 @@ There are a few options in _config.yml which need to be set for the generator:
 | facebook_username | Creates a button to your facebook page |
 | twitter_username | Creates a button to your twitter page |
 | google_analytics | Add your GA code here for analytics |
+| theme | see below |
+
+### Theming
+
+Currently the only supported theme is the default [dark theme](https://github.com/tlrasor/park-page-generator-theme-dark) but more themes are planned.
 
 ### Running in development
 
