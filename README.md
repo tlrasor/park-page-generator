@@ -6,6 +6,14 @@
 
 park-page-generator is a simple template for [domain park pages](https://en.wikipedia.org/wiki/Domain_parking) based on the [Jekyll static site generator](http://jekyllrb.org).
 
+### Demo
+
+A demo is available via gh pages here: http://thathanka.org/park-page-generator/
+
+### Screenshots
+
+![dark theme](https://raw.githubusercontent.com/tlrasor/park-page-generator/master/docs/screenshot.png)
+
 ### Requirements
 
 Ruby 2.3.1 (tested)
