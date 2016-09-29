@@ -28,3 +28,5 @@ google_analytics: UA-XXXX-XX
 # Build settings
 markdown: kramdown
 theme: minima
+
+exclude: [ 'vendor/', 'assets/', 'README.md', 'LICENSE', '.travis.yml','Gemfile','Gemfile.lock']
