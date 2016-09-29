@@ -12,7 +12,7 @@ A demo is available via gh pages here: http://thathanka.org/park-page-generator/
 
 ### Screenshots
 
-![dark theme](https://raw.githubusercontent.com/tlrasor/park-page-generator/master/docs/screenshot.png)
+![dark theme](https://raw.githubusercontent.com/tlrasor/park-page-generator/master/images/screenshot.png)
 
 ### Requirements
 
