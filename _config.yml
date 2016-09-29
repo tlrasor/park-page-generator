@@ -27,6 +27,10 @@ google_analytics:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: park-page-generator-theme-dark
+sass:
+  sass_dir: _sass
+  style: compressed
 
-exclude: [ 'vendor/', 'assets/', 'README.md', 'LICENSE', '.travis.yml','Gemfile','Gemfile.lock', 'script/', 'docs/']
+exclude: [ 'vendor/', 'assets/', 'README.md', 'LICENSE', '.travis.yml',
+'Gemfile','Gemfile.lock', 'script/', 'docs/']

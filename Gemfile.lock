@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/tlrasor/park-page-generator-theme-dark.git
+  revision: bada56d4d88a166c5b739371ebdcf3d6be51f080
+  specs:
+    park-page-generator-theme-dark (1.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -115,6 +121,7 @@ DEPENDENCIES
   jekyll-sitemap
   logging
   minima
+  park-page-generator-theme-dark (~> 1.0.0)!
   rake
 
 RUBY VERSION
